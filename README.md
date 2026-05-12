@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <p>Estudiante de técnica y tecnología en Desarrollo de Software en el CESDE y la Institución Universitaria Pascual Bravo. Me destaco por aplicar de manera práctica los conocimientos académicos en el desarrollo de proyectos personales y trabajos de clase, fortaleciendo continuamente mis habilidades técnicas.
 
-Poseo conocimientos en Java bajo el paradigma de Programación Orientada a Objetos (POO) y gestión de colecciones. Cuento con competencias en Bases de Datos (DDL, DML y funciones intermedias), así como en el desarrollo web fundamental mediante HTML, CSS y Bootstrap, con un enfoque actual en el dominio de la manipulación del DOM con JavaScript.</p>
+Poseo conocimientos en Java bajo el paradigma de Programación Orientada a Objetos (POO) y gestión de colecciones. Cuento con competencias en Bases de Datos (DDL, DML y funciones intermedias, APRENDIENDO), así como en el desarrollo web fundamental mediante HTML, CSS y Bootstrap, con un enfoque actual en el dominio de la manipulación del DOM con JavaScript.</p>
 
 ## Tecnologias aplicadas
 
